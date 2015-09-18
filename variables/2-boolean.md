@@ -1,7 +1,7 @@
 Beginning Variable Exercises - Booleans
 =======================================
 
-For each of the situation given, make up 3 or more variables that you
+For each of the situation given, make up 2 or more variables that you
 think might relevant, and assign them some example values.  Then use
 a command in your scripting language to output some sentences that use
 some of the variable values.
@@ -48,7 +48,7 @@ Example
         console.log("I like to play the clarinet.");
     }
 
-    if ($trombone) {
+    if (trombone) {
         console.log("I like to jam out on the trombone.");
     }
 
