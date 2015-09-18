@@ -48,7 +48,7 @@ Example
         console.log("I like to play the clarinet.");
     }
 
-    if ($trombone) {
+    if (trombone) {
         console.log("I like to jam out on the trombone.");
     }
 
